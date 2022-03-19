@@ -20,7 +20,7 @@ const Header = () => {
             <div className="awesome">
                 <header className="main-header">
                     <div className="color-line"> </div>
-                    <a asp-controller="Home" asp-action="Index" className="logo">
+                    <a href="/" className="logo">
                         <span className="logo-mini">
                             SB
                         </span>
